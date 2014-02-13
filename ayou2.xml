@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="gb2312"?>
+<qidai>
+<qdlist>
+<list name="阿友音乐">http://mp5.ias3.com/1/1.xml</list>
+<list name="  经典MV">http://mp5.ias3.com/mv/1.xml</list>
+<list name="  阿友MV">http://mp5.ias3.com/mv/2.xml</list>
+<list name="  最新推荐">http://mp5.ias3.com/mv/6.xml</list>
+<list name="  汶川地震">http://mp5.ias3.com/mv/5.xml</list>
+<list name="    阿友教学">http://mp5.ias3.com/3/9.xml</list>
+<list name="  MV音乐">http://mp5.ias3.com/mv/3.xml</list>
+<list name="   在线电视 ">http://mp5.ias3.com/2/1.xml</list>
+<list name="   在线电影">http://mp5.ias3.com/3/01.xml</list>
+<list name="  2人转">http://mp5.ias3.com/3/8.xml</list>
+<list name="  网络MV">http://mp5.ias3.com/mv/4.xml</list>
+<list name="    阿友设计">http://mp5.ias3.com/3/10.xml</list>
+</qdlist>
+<ads>
+<txt>mp3文件</txt>
+<txt>mp3文件</txt>
+<txt>mp3文件</txt>
+<txt>mp3文件</txt>
+<txt>mp3文件</txt>
+<txt>mp3文件</txt>
+<txt>mp3文件</txt>
+</ads>
